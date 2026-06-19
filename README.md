@@ -8,7 +8,7 @@
 
 ###
 
-<h5 align="left">Fullstack Developer |  Bogotá, Colombia ·</h5>
+<h5 align="left">Fullstack Developer |  Bogotá, Colombia</h5>
 
 ###
 
