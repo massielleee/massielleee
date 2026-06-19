@@ -74,7 +74,7 @@
 
 ###
 
-<h2 align="left">Infra, DevOps y herramientas</h2>
+<h2 align="center">Infra, DevOps y herramientas</h2>
 
 ###
 
