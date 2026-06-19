@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">**Fullstack Developer** |  Bogotá, Colombia ·</p>
+<p align="left">Fullstack Developer |  Bogotá, Colombia ·</p>
 
 ###
 
